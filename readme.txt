@@ -11,3 +11,4 @@ creating a new branch is quick AND simple.
 >>>>>>> featurel
 creating a new branch is quick and simple.
 new add merge.
+working continue.
